@@ -1,0 +1,44 @@
+\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}
+\contentsline {subsection}{Abbildungsverzeichnis}{4}{section*.3}% 
+\contentsline {subsection}{Tabellenverzeichnis}{4}{section*.4}% 
+\contentsline {section}{\numberline {1}Einleitung}{5}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Zweck}{5}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Produktüberblick}{5}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}Definitionen, Akronyme und Abkürzungen}{5}{subsection.1.3}% 
+\contentsline {subsection}{\numberline {1.4}Referenzen}{5}{subsection.1.4}% 
+\contentsline {section}{\numberline {2}Allgemeine Beschreibung}{6}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Systemübersicht}{6}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Produktfunktionen}{6}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Benutzereigenschaften}{6}{subsection.2.3}% 
+\contentsline {subsection}{\numberline {2.4}Einschränkungen}{6}{subsection.2.4}% 
+\contentsline {subsection}{\numberline {2.5}Annahmen und Abhängigkeiten}{6}{subsection.2.5}% 
+\contentsline {subsection}{\numberline {2.6}Priorisierung der Anforderungen}{6}{subsection.2.6}% 
+\contentsline {section}{\numberline {3}Externe Schnittstellen}{7}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Zu User}{7}{subsection.3.1}% 
+\contentsline {section}{\numberline {4}Funktionale Anforderungen}{8}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Überblick über die Systemfunktionen}{8}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Actors}{8}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Kurzbeschreibung der Use Cases}{8}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}Use Case [Parameter eingeben]}{9}{subsection.4.4}% 
+\contentsline {subsubsection}{\numberline {4.4.1}Vorbedingungen}{9}{subsubsection.4.4.1}% 
+\contentsline {subsubsection}{\numberline {4.4.2}Nachbedingungen}{9}{subsubsection.4.4.2}% 
+\contentsline {subsubsection}{\numberline {4.4.3}Nicht-funktionale Anforderungen}{9}{subsubsection.4.4.3}% 
+\contentsline {subsubsection}{\numberline {4.4.4}Hauptszenario}{9}{subsubsection.4.4.4}% 
+\contentsline {subsubsection}{\numberline {4.4.5}Fehlerszenarien}{9}{subsubsection.4.4.5}% 
+\contentsline {paragraph}{\numberline {4.4.5.1}\textit {\textbf {[E-1]}} Eingabe von negativen Spannungswerten oder nicht numerischen Zeichen.}{9}{paragraph.4.4.5.1}% 
+\contentsline {subsubsection}{\numberline {4.4.6}Regeln}{9}{subsubsection.4.4.6}% 
+\contentsline {subsubsection}{\numberline {4.4.7}Anmerkungen}{9}{subsubsection.4.4.7}% 
+\contentsline {subsubsection}{\numberline {4.4.8}Beispiele}{9}{subsubsection.4.4.8}% 
+\contentsline {subsection}{\numberline {4.5}Use Case [Ausgabe berechnen]}{10}{subsection.4.5}% 
+\contentsline {subsubsection}{\numberline {4.5.1}Vorbedingungen}{10}{subsubsection.4.5.1}% 
+\contentsline {subsubsection}{\numberline {4.5.2}Nachbedingungen}{10}{subsubsection.4.5.2}% 
+\contentsline {subsubsection}{\numberline {4.5.3}Nicht-funktionale Anforderungen}{10}{subsubsection.4.5.3}% 
+\contentsline {subsubsection}{\numberline {4.5.4}Hauptszenario}{10}{subsubsection.4.5.4}% 
+\contentsline {subsubsection}{\numberline {4.5.5}Fehlerszenarien}{10}{subsubsection.4.5.5}% 
+\contentsline {subsubsection}{\numberline {4.5.6}Regeln}{10}{subsubsection.4.5.6}% 
+\contentsline {subsubsection}{\numberline {4.5.7}Anmerkungen}{10}{subsubsection.4.5.7}% 
+\contentsline {subsubsection}{\numberline {4.5.8}Beispiele}{10}{subsubsection.4.5.8}% 
+\contentsline {section}{\numberline {5}Sonstige Anforderungen}{11}{section.5}% 
+\contentsline {section}{\numberline {A}Referenzen}{12}{appendix.A}% 
+\contentsfinish 
