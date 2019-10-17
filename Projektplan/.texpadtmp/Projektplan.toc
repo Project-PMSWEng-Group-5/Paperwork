@@ -1,0 +1,25 @@
+\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}
+\contentsline {subsection}{Abbildungsverzeichnis}{4}{section*.3}
+\contentsline {subsection}{Tabellenverzeichnis}{4}{section*.4}
+\contentsline {section}{\numberline {1}Einleitung}{5}{section.1}
+\contentsline {subsection}{\numberline {1.1}Zweck}{5}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Produktüberblick}{5}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Definitionen, Akronyme und Abkürzungen}{5}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Referenzen}{5}{subsection.1.4}
+\contentsline {section}{\numberline {2}Projektstrukturplan}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}GUI-Design}{6}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Eingabebereich}{6}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Ausgabebereich}{6}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Grafische Representation}{6}{subsubsection.2.1.3}
+\contentsline {subsection}{\numberline {2.2}Implementation der Berechnung}{6}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Lookup Table der E-Reihen erstellen}{6}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Ausgabeberechnung}{6}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Schnittstelle GUI}{6}{subsubsection.2.2.3}
+\contentsline {subsection}{\numberline {2.3}Systemtest}{6}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Illegale numerische Eingaben testen}{6}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Illegale lexikalische Eingaben testen}{6}{subsubsection.2.3.2}
+\contentsline {section}{\numberline {3}Terminplan}{7}{section.3}
+\contentsline {section}{\numberline {4}Sonstige Anforderungen}{8}{section.4}
+\contentsline {section}{\numberline {A}Referenzen}{9}{appendix.A}
+\contentsfinish 
