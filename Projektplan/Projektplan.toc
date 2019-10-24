@@ -1,0 +1,21 @@
+\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}
+\contentsline {subsection}{Abbildungsverzeichnis}{4}{section*.3}% 
+\contentsline {subsection}{Tabellenverzeichnis}{4}{section*.4}% 
+\contentsline {section}{\numberline {1}Einleitung}{5}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Zweck}{5}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Produkt\IeC {\"u}berblick}{5}{subsection.1.2}% 
+\contentsline {section}{\numberline {2}Projektstrukturplan}{6}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}GUI-Design}{6}{subsection.2.1}% 
+\contentsline {subsubsection}{\numberline {2.1.1}Eingabebereich}{6}{subsubsection.2.1.1}% 
+\contentsline {subsubsection}{\numberline {2.1.2}Ausgabebereich}{6}{subsubsection.2.1.2}% 
+\contentsline {subsubsection}{\numberline {2.1.3}Grafische Representation}{6}{subsubsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.2}Implementation der Berechnung}{6}{subsection.2.2}% 
+\contentsline {subsubsection}{\numberline {2.2.1}E-Reihen}{6}{subsubsection.2.2.1}% 
+\contentsline {subsubsection}{\numberline {2.2.2}Ausgabeberechnung}{6}{subsubsection.2.2.2}% 
+\contentsline {subsubsection}{\numberline {2.2.3}Schnittstelle GUI}{7}{subsubsection.2.2.3}% 
+\contentsline {subsection}{\numberline {2.3}Systemtest}{7}{subsection.2.3}% 
+\contentsline {subsubsection}{\numberline {2.3.1}Illegale numerische Eingaben testen}{7}{subsubsection.2.3.1}% 
+\contentsline {subsubsection}{\numberline {2.3.2}Illegale lexikalische Eingaben testen}{7}{subsubsection.2.3.2}% 
+\contentsline {section}{\numberline {3}Terminplan}{8}{section.3}% 
+\contentsfinish 
